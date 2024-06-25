@@ -1,16 +1,19 @@
-## Hi there 👋
+## Ciao :D 
 
-<!--
-**gdalsanto/gdalsanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi! I'm a 2nd year PhD student in the [Audio Signal Processing team](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at Aalto University. My research is centered on artificial reverberation, using delay-line-based reverb and machine learning optimization. Hope to see you at DAFx24!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find some of my projects related to audio signal processing and more. Feel free to explore, fork, and contribute! 
+
+### My Hobbies
+
+- 🏃🏼‍♀️‍➡️ I’m an avid runner, training to stay in shape while gathering the courage to sign up for my next marathon.
+- 🎧 Passionate about electronic music. I'm involved with the [entropy](https://entropy.fi) collective and [IDARADIO](https://idaidaida.net). Feel free to check out my mixes and tracks on [SoundCloud](https://soundcloud.com/jiaozifan).
+
+
+## Get in Touch
+
+I'm always open to collaboration, discussing ideas, or chatting about any of my passions. Reach out if you want to connect! 
+- [LinkedIn](https://www.linkedin.com/in/gloriadalsanto/)
+- [Email](mailto:gloria.dalsanto@aalto.fi)
