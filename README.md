@@ -8,7 +8,7 @@ Here you'll find some of my projects related to audio signal processing and more
 I'm always open to collaboration, discussing ideas, or chatting about any of my passions. Reach out if you want to connect! 
 
 
-#### Things I love to do while not doing research
+#### Things I love to do while I'm not doing research
 
 - 🏃🏼‍♀️‍➡️ I’m an avid runner, training to stay in shape while gathering the courage to sign up for my next marathon.
 - 🎧 Passionate about electronic music. I'm involved with the [entropy](https://entropy.fi) collective and [IDARADIO](https://idaidaida.net). Feel free to check out my mixes and tracks on [SoundCloud](https://soundcloud.com/jiaozifan).
