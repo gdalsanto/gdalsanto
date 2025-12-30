@@ -1,7 +1,8 @@
 Hi! I'm a 4th-year (😰) PhD student in the [Audio Signal Processing team](https://www.aalto.fi/en/department-of-signal-processing-and-acoustics) at Aalto University. My research is centered on artificial reverberation, using delay-line-based reverb and machine learning optimization.
 
-Here you'll find some of my projects related to artificial reverb, and ASP. Feel free to explore, fork, and contribute:)
-- check out [FLAMO](https://github.com/gdalsanto/flamo) our Python package for differentiable LTI systems!
+Here you'll find some of my projects related to artificial reverb and audio signal processing. Feel free to explore, fork, and contribute:)
+- Check out [FLAMO](https://github.com/gdalsanto/flamo) our Python package for differentiable LTI systems!
+- If you're curious about reverb design using delay networks and recent developments, check out this up-to-date [list](https://github.com/gdalsanto/delay-network-reverbs)
   
 I'm always open to collaboration, discussing ideas, or chatting about any of my passions. Reach out if you want to connect! 
 
